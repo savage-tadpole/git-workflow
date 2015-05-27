@@ -5,3 +5,7 @@
 var greeting = 'Hello World!';
 
 console.log(greeting);
+
+var goodbye = "goodbye!";
+
+console.log(goodbye);
