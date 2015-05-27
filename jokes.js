@@ -1,0 +1,1 @@
+var joke = 'What did the chicken say?';
